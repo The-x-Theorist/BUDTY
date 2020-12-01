@@ -1,0 +1,15 @@
+{
+  "name": "budty",
+  "version": "1.0.0",
+  "description": "this is marketting website",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --out-dir ./dist"
+  },
+  "author": "sneh khatri",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
